@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 Project Overview:
 In this project, I analyzed pizza store sales data using SQL to understand sales, revenue, and customer buying patterns.
 
 To find out:
@@ -7,7 +7,7 @@ Which pizzas are selling the most
 What time customers place more orders
 Which pizza types bring more profit
 
-🔎 What I Did
+🔎 What I Did:
 Found total number of orders
 Calculated total revenue from sales
 Identified the most expensive pizza
@@ -19,11 +19,11 @@ Calculated average pizzas sold per day
 Found top pizzas based on revenue
 Analyzed revenue growth over time
 
-📊 Key Insights
+📊 Key Insights:
 Some pizzas sell much more than others
 A few pizza types generate most of the revenue
 Customers order more during specific hours
 Certain pizza categories perform better than others
 
-⭐ Conclusion
+⭐ Conclusion:
 This project helped me understand how SQL can be used to analyze sales data and support business decisions. It also improved my skills in writing queries and finding useful insights from data.

@@ -1,5 +1,3 @@
-<img width="836" height="624" alt="image" src="https://github.com/user-attachments/assets/15550182-141f-4521-867d-15192a2381fb" /># Sql-notes-project
-
 📌 Project Overview
 In this project, I analyzed pizza store sales data using SQL to understand sales, revenue, and customer buying patterns.
 
